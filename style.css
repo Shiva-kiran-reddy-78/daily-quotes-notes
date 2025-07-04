@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f0f8ff;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+}
+li {
+  margin-top: 8px;
+}
